@@ -1,7 +1,16 @@
 
 
+## This is the representaion of format of the tracker.
 
 ![](https://github.com/adarsh-3099/Covid-19-Tracker/blob/main/Covid%20Tracker.jpg)
+
+## A Visual of how the project looks
+
+![](https://github.com/adarsh-3099/Covid-19-Tracker/blob/main/Screenshot%20(502).png)
+
+## Project is Deployed by Firebase
+
+### https://covid-19-tracker-78737.web.app/
 
 # Getting Started with Create React App
 
