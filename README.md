@@ -1,7 +1,7 @@
 
 
 
-![](Covid Tracker.jpg)
+![](https://github.com/adarsh-3099/Covid-19-Tracker/blob/main/Covid%20Tracker.jpg)
 
 # Getting Started with Create React App
 
