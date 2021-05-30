@@ -1,7 +1,7 @@
 
 
 
-![](Covid_tracker_sample.PNG)
+![](Covid Tracker.jpg)
 
 # Getting Started with Create React App
 
