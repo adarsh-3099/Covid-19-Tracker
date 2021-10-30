@@ -8,7 +8,7 @@
 
 ![](https://github.com/adarsh-3099/Covid-19-Tracker/blob/main/Screenshot%20(502).png)
 
-## Project is Deployed by Firebase
+## Project is Deployed using Firebase
 
 ### https://covid-19-tracker-78737.web.app/
 
