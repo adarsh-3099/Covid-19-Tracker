@@ -4,7 +4,7 @@
 
 ![](https://github.com/adarsh-3099/Covid-19-Tracker/blob/main/Covid%20Tracker.jpg)
 
-## A Visual of how the project looks
+## A Visual of how the project look
 
 ![](https://github.com/adarsh-3099/Covid-19-Tracker/blob/main/Screenshot%20(502).png)
 
